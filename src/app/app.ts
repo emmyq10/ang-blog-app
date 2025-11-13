@@ -13,5 +13,5 @@ import { Footer } from './layouts/footer/footer';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = signal('ang-blog-app');
+ title = 'ang-blog-app';
 }
